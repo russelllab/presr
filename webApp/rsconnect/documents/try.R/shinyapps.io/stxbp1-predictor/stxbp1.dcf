@@ -1,0 +1,14 @@
+name: stxbp1
+title: stxbp1
+username:
+account: stxbp1-predictor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4907730
+bundleId: 5154802
+url: https://stxbp1-predictor.shinyapps.io/stxbp1/
+when: 1634658374.99421
+lastSyncTime: 1634658374.99424
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: basic.R
