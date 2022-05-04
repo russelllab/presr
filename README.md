@@ -2,11 +2,11 @@
 
 A machine learning-based predictor of variant pathogenicity in <i>[STXBP1](https://www.uniprot.org/uniprot/P61764)</i>
 
-<img src="webApp/PRESS.gif" alt="press.russelllab.org" width="1000" height="600"/><br>
+<img src="webApp/PRESS.gif" alt="press.russelllab.org" width="1000" height="500"/><br>
 ## Web application
 Access the Shiny-based webApp [here](http://press.russelllab.org)<br>
 ## Workflow
-<img src="webApp/Workflow.svg" alt="press.russelllab.org" width="800" height="600"/><br>
+<img src="webApp/webAppWorkflow.jpg" alt="press.russelllab.org" width="800" height="600"/><br>
 ## Command line
 Run the workflow
 ```
