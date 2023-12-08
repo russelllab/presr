@@ -1,4 +1,4 @@
-# <strong>PRESS</strong>: <strong>Pre</strong>dicting <i>[<strong>S</strong>TXBP1](https://www.uniprot.org/uniprot/P61764)</i> <strong>s</strong>yndrome
+# <strong>PRESS</strong>: <strong>PRE</strong>dictor of <i>[<strong>S</strong>TXBP1](https://www.uniprot.org/uniprot/P61764)</i> <strong>R</strong>elated disorder
 
 A machine learning-based predictor of variant pathogenicity in <i>[STXBP1](https://www.uniprot.org/uniprot/P61764)</i>
 
